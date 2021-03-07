@@ -4,6 +4,6 @@ echo """
  ) _)  )   / )(  ) D (/    \ )  /
 (__)  (__\_)(__)(____/\_/\_/(__/
 
-(C) @DEVSEXPO
+(C) @rajeshsaini2113
 """
 python3 -m fridaybot
